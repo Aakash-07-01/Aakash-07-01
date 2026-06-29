@@ -1,26 +1,11 @@
-<h2 data-importer="text" align="left">Hi 👋! My name is Aakash B and I'm a CSE (AIML) student, from Coimbatore, India.</h2>
-###
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Aakash-07-01/Aakash-07-01/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Aakash-07-01/Aakash-07-01/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-</div>
-###
-<div data-importer="socials" align="left">
+<h1 align="center">Hi 👋, I'm Aakash B</h1>
+<h3 align="center">CSE (AIML) Student | Building with Python, Java & AI</h3>
+
+<p align="center">
+  📍 Coimbatore, India &nbsp;|&nbsp; 🎓 B.E. CSE (AI & ML), Rathinam Technical Campus
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/aakash2608/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -33,29 +18,67 @@
   <a href="https://leetcode.com/Aakash260805" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo"  />
   </a>
-</div>
-###
-<br clear="both">
+</p>
 
-## 🚀 About Me
-- 🎓 B.E. CSE (Artificial Intelligence & Machine Learning) @ Rathinam Technical Campus, Coimbatore
-- 🤖 Hands-on with Python, data analysis, and machine learning, with strong fundamentals in Java
-- 🛠️ Built end-to-end projects spanning data pipelines, automation, and AI integration
-- 🧩 88+ problems solved on LeetCode (Java) across Easy, Medium, and Hard
-- 📌 Seeking an internship to apply my skills to real-world problems and impactful projects
+---
 
-## 🛠️ Featured Projects
-- **Gym Routine Manager** — Full-stack workout management system (Java, React, Spring Boot, PostgreSQL) with an AI chatbot powered by Gemini 2.0 Flash for personalized fitness queries based on workout history
-- **Automated CSV Analytics Dashboard** — Python + Pandas + Plotly tool that auto-generates interactive HTML dashboards (trend charts, correlation heatmaps, summary stats) from any CSV, cutting manual analysis time from 2 hours to under 5 minutes
+### 🛠️ Tech Stack
 
-## 📜 Certifications
-- Oracle Certified AI Foundations Associate (OCI 2025) — Oracle, Aug 2025
-- Supervised Machine Learning — Scaler, May 2026
-- EDA and Data Visualization in Data Science — Scaler, Oct 2025
-- Data Analytics Workshop — NIT Trichy, Sep 2025
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
-###
-<div data-importer="snake" align="center">
-  <img src="https://raw.githubusercontent.com/Aakash-07-01/Aakash-07-01/snake-output/snake.svg" alt="Snake animation" />
-</div>
-###
+---
+
+### 🚀 About Me
+
+- 🔭 Currently building full-stack and AI-integrated projects to sharpen real-world engineering skills
+- 🧠 Hands-on with **Python, data analysis, and machine learning**, with strong fundamentals in **Java**
+- ⚙️ Comfortable across the stack — from Spring Boot/PostgreSQL backends to React frontends
+- 🤝 Actively exploring **prompt engineering** and AI integration into everyday tools
+- 🎯 Seeking an internship to apply my skills to real-world problems and impactful projects
+- ⚡ 88+ problems solved on LeetCode (Java) across Easy, Medium, and Hard
+
+---
+
+### 🛠️ Featured Projects
+
+**[Gym Routine Manager](https://github.com/Aakash-07-01)**
+`Java` `React` `Spring Boot` `PostgreSQL` `Gemini API`
+> Full-stack workout management system to organize routines, log progress, and visualize performance trends — with an integrated AI chatbot (Gemini 2.0 Flash) that answers fitness queries using the user's own workout history.
+
+**[Automated CSV Analytics Dashboard](https://github.com/Aakash-07-01)**
+`Python` `Pandas` `Plotly` `HTML`
+> A tool that auto-generates interactive HTML dashboards from any CSV — trend charts, correlation heatmaps, and summary statistics included. Cut manual analysis time from 2 hours down to under 5 minutes.
+
+---
+
+### 📜 Certifications & Learning
+
+| Certification / Course | Provider | Date |
+|---|---|---|
+| Oracle Certified AI Foundations Associate (OCI 2025) | Oracle | Aug 2025 |
+| Supervised Machine Learning | Scaler | May 2026 |
+| EDA & Data Visualization in Data Science | Scaler | Oct 2025 |
+| Data Analytics Workshop | NIT Trichy | Sep 2025 |
+
+---
+
+### 📊 Quick Stats
+
+![LeetCode](https://img.shields.io/badge/LeetCode-88%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+![CGPA](https://img.shields.io/badge/CGPA-7.6-success?style=for-the-badge)
+
+---
+
+<p align="center"><i>📫 Open to internship opportunities in AI/ML, Data Science, and full-stack development — feel free to reach out!</i></p>
