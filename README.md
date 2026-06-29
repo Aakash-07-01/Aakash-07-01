@@ -49,11 +49,11 @@
 
 ### 🛠️ Featured Projects
 
-**[Gym Routine Manager](https://github.com/Aakash-07-01)**
+**[Gym Routine Manager](https://github.com/Aakash-07-01/gym-routine-app)**
 `Java` `React` `Spring Boot` `PostgreSQL` `Gemini API`
 > Full-stack workout management system to organize routines, log progress, and visualize performance trends — with an integrated AI chatbot (Gemini 2.0 Flash) that answers fitness queries using the user's own workout history.
 
-**[Automated CSV Analytics Dashboard](https://github.com/Aakash-07-01)**
+**[Automated CSV Analytics Dashboard](https://github.com/Aakash-07-01/Autonomous-Data-Analyzer)**
 `Python` `Pandas` `Plotly` `HTML`
 > A tool that auto-generates interactive HTML dashboards from any CSV — trend charts, correlation heatmaps, and summary statistics included. Cut manual analysis time from 2 hours down to under 5 minutes.
 
