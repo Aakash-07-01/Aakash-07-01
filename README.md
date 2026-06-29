@@ -43,7 +43,6 @@
 - 🧠 Hands-on with **Python, data analysis, and machine learning**, with strong fundamentals in **Java**
 - ⚙️ Comfortable across the stack — from Spring Boot/PostgreSQL backends to React frontends
 - 🤝 Actively exploring **prompt engineering** and AI integration into everyday tools
-- 🎯 Seeking an internship to apply my skills to real-world problems and impactful projects
 - ⚡ 88+ problems solved on LeetCode (Java) across Easy, Medium, and Hard
 
 ---
